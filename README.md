@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: DIGITAL CURRENCY MARKET (USD & SAR) - Time series
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) DIGITAL CURRENCY MARKET (USD & SAR) - Time series
 
 ##### Applying Unsupervised Learning Algorithms
 
